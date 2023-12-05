@@ -1,0 +1,906 @@
+[ {
+  "id" : 1,
+  "name" : "AutoWorkshop_1",
+  "workers" : [ {
+    "id" : 111,
+    "fio" : "fio_1101",
+    "specialization" : "specialization_1",
+    "workshopId" : 1
+  }, {
+    "id" : 112,
+    "fio" : "fio_1102",
+    "specialization" : "specialization_2",
+    "workshopId" : 1
+  }, {
+    "id" : 113,
+    "fio" : "fio_1103",
+    "specialization" : "specialization_3",
+    "workshopId" : 1
+  }, {
+    "id" : 114,
+    "fio" : "fio_1104",
+    "specialization" : "specialization_4",
+    "workshopId" : 1
+  }, {
+    "id" : 115,
+    "fio" : "fio_1105",
+    "specialization" : "specialization_5",
+    "workshopId" : 1
+  }, {
+    "id" : 116,
+    "fio" : "fio_1106",
+    "specialization" : "specialization_6",
+    "workshopId" : 1
+  } ],
+  "commissions" : [ {
+    "id" : 111,
+    "carBrand" : "brand_10",
+    "typeService" : "service_46",
+    "priceService" : 216091,
+    "workshopId" : 1
+  }, {
+    "id" : 112,
+    "carBrand" : "brand_25",
+    "typeService" : "service_26",
+    "priceService" : 108647,
+    "workshopId" : 1
+  }, {
+    "id" : 113,
+    "carBrand" : "brand_51",
+    "typeService" : "service_28",
+    "priceService" : 218623,
+    "workshopId" : 1
+  }, {
+    "id" : 114,
+    "carBrand" : "brand_2",
+    "typeService" : "service_49",
+    "priceService" : 84962,
+    "workshopId" : 1
+  }, {
+    "id" : 115,
+    "carBrand" : "brand_37",
+    "typeService" : "service_83",
+    "priceService" : 289566,
+    "workshopId" : 1
+  }, {
+    "id" : 116,
+    "carBrand" : "brand_27",
+    "typeService" : "service_68",
+    "priceService" : 175426,
+    "workshopId" : 1
+  } ],
+  "equipments" : [ {
+    "id" : 111,
+    "name" : "equipment62",
+    "count" : 6,
+    "specialization" : "specialization_1",
+    "workshopId" : 1
+  }, {
+    "id" : 112,
+    "name" : "equipment56",
+    "count" : 2,
+    "specialization" : "specialization_2",
+    "workshopId" : 1
+  } ],
+  "location" : {
+    "country" : "Country_41",
+    "city" : "City_7",
+    "street" : "Street_29",
+    "house" : "House_78",
+    "workshopId" : 1
+  }
+}, {
+  "id" : 2,
+  "name" : "AutoWorkshop_2",
+  "workers" : [ {
+    "id" : 221,
+    "fio" : "fio_2201",
+    "specialization" : "specialization_1",
+    "workshopId" : 2
+  }, {
+    "id" : 222,
+    "fio" : "fio_2202",
+    "specialization" : "specialization_2",
+    "workshopId" : 2
+  }, {
+    "id" : 223,
+    "fio" : "fio_2203",
+    "specialization" : "specialization_3",
+    "workshopId" : 2
+  }, {
+    "id" : 224,
+    "fio" : "fio_2204",
+    "specialization" : "specialization_4",
+    "workshopId" : 2
+  } ],
+  "commissions" : [ {
+    "id" : 221,
+    "carBrand" : "brand_48",
+    "typeService" : "service_50",
+    "priceService" : 135950,
+    "workshopId" : 2
+  }, {
+    "id" : 222,
+    "carBrand" : "brand_20",
+    "typeService" : "service_76",
+    "priceService" : 3677,
+    "workshopId" : 2
+  }, {
+    "id" : 223,
+    "carBrand" : "brand_74",
+    "typeService" : "service_83",
+    "priceService" : 116417,
+    "workshopId" : 2
+  }, {
+    "id" : 224,
+    "carBrand" : "brand_26",
+    "typeService" : "service_21",
+    "priceService" : 69608,
+    "workshopId" : 2
+  } ],
+  "equipments" : [ {
+    "id" : 221,
+    "name" : "equipment99",
+    "count" : 5,
+    "specialization" : "specialization_1",
+    "workshopId" : 2
+  }, {
+    "id" : 222,
+    "name" : "equipment38",
+    "count" : 5,
+    "specialization" : "specialization_2",
+    "workshopId" : 2
+  }, {
+    "id" : 223,
+    "name" : "equipment21",
+    "count" : 4,
+    "specialization" : "specialization_3",
+    "workshopId" : 2
+  }, {
+    "id" : 224,
+    "name" : "equipment98",
+    "count" : 4,
+    "specialization" : "specialization_4",
+    "workshopId" : 2
+  }, {
+    "id" : 225,
+    "name" : "equipment98",
+    "count" : 1,
+    "specialization" : "specialization_5",
+    "workshopId" : 2
+  } ],
+  "location" : {
+    "country" : "Country_63",
+    "city" : "City_14",
+    "street" : "Street_82",
+    "house" : "House_3",
+    "workshopId" : 2
+  }
+}, {
+  "id" : 3,
+  "name" : "AutoWorkshop_3",
+  "workers" : [ {
+    "id" : 331,
+    "fio" : "fio_3301",
+    "specialization" : "specialization_1",
+    "workshopId" : 3
+  }, {
+    "id" : 332,
+    "fio" : "fio_3302",
+    "specialization" : "specialization_2",
+    "workshopId" : 3
+  }, {
+    "id" : 333,
+    "fio" : "fio_3303",
+    "specialization" : "specialization_3",
+    "workshopId" : 3
+  }, {
+    "id" : 334,
+    "fio" : "fio_3304",
+    "specialization" : "specialization_4",
+    "workshopId" : 3
+  }, {
+    "id" : 335,
+    "fio" : "fio_3305",
+    "specialization" : "specialization_5",
+    "workshopId" : 3
+  }, {
+    "id" : 336,
+    "fio" : "fio_3306",
+    "specialization" : "specialization_6",
+    "workshopId" : 3
+  } ],
+  "commissions" : [ {
+    "id" : 331,
+    "carBrand" : "brand_76",
+    "typeService" : "service_52",
+    "priceService" : 249898,
+    "workshopId" : 3
+  }, {
+    "id" : 332,
+    "carBrand" : "brand_37",
+    "typeService" : "service_95",
+    "priceService" : 99138,
+    "workshopId" : 3
+  }, {
+    "id" : 333,
+    "carBrand" : "brand_81",
+    "typeService" : "service_70",
+    "priceService" : 194460,
+    "workshopId" : 3
+  }, {
+    "id" : 334,
+    "carBrand" : "brand_99",
+    "typeService" : "service_59",
+    "priceService" : 5275,
+    "workshopId" : 3
+  }, {
+    "id" : 335,
+    "carBrand" : "brand_84",
+    "typeService" : "service_76",
+    "priceService" : 186514,
+    "workshopId" : 3
+  } ],
+  "equipments" : [ {
+    "id" : 331,
+    "name" : "equipment40",
+    "count" : 8,
+    "specialization" : "specialization_1",
+    "workshopId" : 3
+  }, {
+    "id" : 332,
+    "name" : "equipment27",
+    "count" : 2,
+    "specialization" : "specialization_2",
+    "workshopId" : 3
+  } ],
+  "location" : {
+    "country" : "Country_70",
+    "city" : "City_5",
+    "street" : "Street_34",
+    "house" : "House_75",
+    "workshopId" : 3
+  }
+}, {
+  "id" : 4,
+  "name" : "AutoWorkshop_4",
+  "workers" : [ {
+    "id" : 441,
+    "fio" : "fio_4401",
+    "specialization" : "specialization_1",
+    "workshopId" : 4
+  }, {
+    "id" : 442,
+    "fio" : "fio_4402",
+    "specialization" : "specialization_2",
+    "workshopId" : 4
+  }, {
+    "id" : 443,
+    "fio" : "fio_4403",
+    "specialization" : "specialization_3",
+    "workshopId" : 4
+  } ],
+  "commissions" : [ {
+    "id" : 441,
+    "carBrand" : "brand_23",
+    "typeService" : "service_33",
+    "priceService" : 195007,
+    "workshopId" : 4
+  }, {
+    "id" : 442,
+    "carBrand" : "brand_66",
+    "typeService" : "service_26",
+    "priceService" : 76350,
+    "workshopId" : 4
+  }, {
+    "id" : 443,
+    "carBrand" : "brand_57",
+    "typeService" : "service_79",
+    "priceService" : 225796,
+    "workshopId" : 4
+  }, {
+    "id" : 444,
+    "carBrand" : "brand_0",
+    "typeService" : "service_39",
+    "priceService" : 160171,
+    "workshopId" : 4
+  }, {
+    "id" : 445,
+    "carBrand" : "brand_28",
+    "typeService" : "service_0",
+    "priceService" : 189515,
+    "workshopId" : 4
+  } ],
+  "equipments" : [ {
+    "id" : 441,
+    "name" : "equipment57",
+    "count" : 5,
+    "specialization" : "specialization_1",
+    "workshopId" : 4
+  }, {
+    "id" : 442,
+    "name" : "equipment76",
+    "count" : 1,
+    "specialization" : "specialization_2",
+    "workshopId" : 4
+  }, {
+    "id" : 443,
+    "name" : "equipment10",
+    "count" : 9,
+    "specialization" : "specialization_3",
+    "workshopId" : 4
+  } ],
+  "location" : {
+    "country" : "Country_19",
+    "city" : "City_13",
+    "street" : "Street_8",
+    "house" : "House_91",
+    "workshopId" : 4
+  }
+}, {
+  "id" : 5,
+  "name" : "AutoWorkshop_5",
+  "workers" : [ {
+    "id" : 551,
+    "fio" : "fio_5501",
+    "specialization" : "specialization_1",
+    "workshopId" : 5
+  }, {
+    "id" : 552,
+    "fio" : "fio_5502",
+    "specialization" : "specialization_2",
+    "workshopId" : 5
+  }, {
+    "id" : 553,
+    "fio" : "fio_5503",
+    "specialization" : "specialization_3",
+    "workshopId" : 5
+  }, {
+    "id" : 554,
+    "fio" : "fio_5504",
+    "specialization" : "specialization_4",
+    "workshopId" : 5
+  }, {
+    "id" : 555,
+    "fio" : "fio_5505",
+    "specialization" : "specialization_5",
+    "workshopId" : 5
+  } ],
+  "commissions" : [ {
+    "id" : 551,
+    "carBrand" : "brand_80",
+    "typeService" : "service_66",
+    "priceService" : 138921,
+    "workshopId" : 5
+  }, {
+    "id" : 552,
+    "carBrand" : "brand_19",
+    "typeService" : "service_45",
+    "priceService" : 86145,
+    "workshopId" : 5
+  }, {
+    "id" : 553,
+    "carBrand" : "brand_62",
+    "typeService" : "service_60",
+    "priceService" : 254787,
+    "workshopId" : 5
+  } ],
+  "equipments" : [ {
+    "id" : 551,
+    "name" : "equipment41",
+    "count" : 6,
+    "specialization" : "specialization_1",
+    "workshopId" : 5
+  }, {
+    "id" : 552,
+    "name" : "equipment87",
+    "count" : 7,
+    "specialization" : "specialization_2",
+    "workshopId" : 5
+  }, {
+    "id" : 553,
+    "name" : "equipment91",
+    "count" : 6,
+    "specialization" : "specialization_3",
+    "workshopId" : 5
+  } ],
+  "location" : {
+    "country" : "Country_36",
+    "city" : "City_53",
+    "street" : "Street_70",
+    "house" : "House_95",
+    "workshopId" : 5
+  }
+}, {
+  "id" : 6,
+  "name" : "AutoWorkshop_6",
+  "workers" : [ {
+    "id" : 661,
+    "fio" : "fio_6601",
+    "specialization" : "specialization_1",
+    "workshopId" : 6
+  }, {
+    "id" : 662,
+    "fio" : "fio_6602",
+    "specialization" : "specialization_2",
+    "workshopId" : 6
+  } ],
+  "commissions" : [ {
+    "id" : 661,
+    "carBrand" : "brand_54",
+    "typeService" : "service_69",
+    "priceService" : 127456,
+    "workshopId" : 6
+  }, {
+    "id" : 662,
+    "carBrand" : "brand_75",
+    "typeService" : "service_97",
+    "priceService" : 62042,
+    "workshopId" : 6
+  }, {
+    "id" : 663,
+    "carBrand" : "brand_52",
+    "typeService" : "service_13",
+    "priceService" : 42939,
+    "workshopId" : 6
+  }, {
+    "id" : 664,
+    "carBrand" : "brand_77",
+    "typeService" : "service_98",
+    "priceService" : 208320,
+    "workshopId" : 6
+  }, {
+    "id" : 665,
+    "carBrand" : "brand_87",
+    "typeService" : "service_17",
+    "priceService" : 297215,
+    "workshopId" : 6
+  }, {
+    "id" : 666,
+    "carBrand" : "brand_91",
+    "typeService" : "service_86",
+    "priceService" : 6220,
+    "workshopId" : 6
+  }, {
+    "id" : 667,
+    "carBrand" : "brand_28",
+    "typeService" : "service_50",
+    "priceService" : 255177,
+    "workshopId" : 6
+  } ],
+  "equipments" : [ {
+    "id" : 661,
+    "name" : "equipment69",
+    "count" : 6,
+    "specialization" : "specialization_1",
+    "workshopId" : 6
+  }, {
+    "id" : 662,
+    "name" : "equipment43",
+    "count" : 7,
+    "specialization" : "specialization_2",
+    "workshopId" : 6
+  }, {
+    "id" : 663,
+    "name" : "equipment92",
+    "count" : 6,
+    "specialization" : "specialization_3",
+    "workshopId" : 6
+  }, {
+    "id" : 664,
+    "name" : "equipment6",
+    "count" : 5,
+    "specialization" : "specialization_4",
+    "workshopId" : 6
+  } ],
+  "location" : {
+    "country" : "Country_23",
+    "city" : "City_62",
+    "street" : "Street_0",
+    "house" : "House_40",
+    "workshopId" : 6
+  }
+}, {
+  "id" : 7,
+  "name" : "AutoWorkshop_7",
+  "workers" : [ {
+    "id" : 771,
+    "fio" : "fio_7701",
+    "specialization" : "specialization_1",
+    "workshopId" : 7
+  }, {
+    "id" : 772,
+    "fio" : "fio_7702",
+    "specialization" : "specialization_2",
+    "workshopId" : 7
+  }, {
+    "id" : 773,
+    "fio" : "fio_7703",
+    "specialization" : "specialization_3",
+    "workshopId" : 7
+  }, {
+    "id" : 774,
+    "fio" : "fio_7704",
+    "specialization" : "specialization_4",
+    "workshopId" : 7
+  } ],
+  "commissions" : [ {
+    "id" : 771,
+    "carBrand" : "brand_26",
+    "typeService" : "service_74",
+    "priceService" : 165986,
+    "workshopId" : 7
+  }, {
+    "id" : 772,
+    "carBrand" : "brand_87",
+    "typeService" : "service_46",
+    "priceService" : 232991,
+    "workshopId" : 7
+  }, {
+    "id" : 773,
+    "carBrand" : "brand_10",
+    "typeService" : "service_31",
+    "priceService" : 250228,
+    "workshopId" : 7
+  }, {
+    "id" : 774,
+    "carBrand" : "brand_79",
+    "typeService" : "service_11",
+    "priceService" : 224577,
+    "workshopId" : 7
+  }, {
+    "id" : 775,
+    "carBrand" : "brand_45",
+    "typeService" : "service_74",
+    "priceService" : 161222,
+    "workshopId" : 7
+  }, {
+    "id" : 776,
+    "carBrand" : "brand_66",
+    "typeService" : "service_87",
+    "priceService" : 210634,
+    "workshopId" : 7
+  }, {
+    "id" : 777,
+    "carBrand" : "brand_99",
+    "typeService" : "service_24",
+    "priceService" : 80130,
+    "workshopId" : 7
+  } ],
+  "equipments" : [ {
+    "id" : 771,
+    "name" : "equipment79",
+    "count" : 3,
+    "specialization" : "specialization_1",
+    "workshopId" : 7
+  }, {
+    "id" : 772,
+    "name" : "equipment13",
+    "count" : 7,
+    "specialization" : "specialization_2",
+    "workshopId" : 7
+  }, {
+    "id" : 773,
+    "name" : "equipment17",
+    "count" : 7,
+    "specialization" : "specialization_3",
+    "workshopId" : 7
+  }, {
+    "id" : 774,
+    "name" : "equipment43",
+    "count" : 8,
+    "specialization" : "specialization_4",
+    "workshopId" : 7
+  } ],
+  "location" : {
+    "country" : "Country_33",
+    "city" : "City_69",
+    "street" : "Street_31",
+    "house" : "House_0",
+    "workshopId" : 7
+  }
+}, {
+  "id" : 8,
+  "name" : "AutoWorkshop_8",
+  "workers" : [ {
+    "id" : 881,
+    "fio" : "fio_8801",
+    "specialization" : "specialization_1",
+    "workshopId" : 8
+  }, {
+    "id" : 882,
+    "fio" : "fio_8802",
+    "specialization" : "specialization_2",
+    "workshopId" : 8
+  }, {
+    "id" : 883,
+    "fio" : "fio_8803",
+    "specialization" : "specialization_3",
+    "workshopId" : 8
+  }, {
+    "id" : 884,
+    "fio" : "fio_8804",
+    "specialization" : "specialization_4",
+    "workshopId" : 8
+  }, {
+    "id" : 885,
+    "fio" : "fio_8805",
+    "specialization" : "specialization_5",
+    "workshopId" : 8
+  } ],
+  "commissions" : [ {
+    "id" : 881,
+    "carBrand" : "brand_78",
+    "typeService" : "service_15",
+    "priceService" : 257891,
+    "workshopId" : 8
+  }, {
+    "id" : 882,
+    "carBrand" : "brand_41",
+    "typeService" : "service_80",
+    "priceService" : 181094,
+    "workshopId" : 8
+  }, {
+    "id" : 883,
+    "carBrand" : "brand_99",
+    "typeService" : "service_48",
+    "priceService" : 291461,
+    "workshopId" : 8
+  }, {
+    "id" : 884,
+    "carBrand" : "brand_19",
+    "typeService" : "service_28",
+    "priceService" : 54906,
+    "workshopId" : 8
+  }, {
+    "id" : 885,
+    "carBrand" : "brand_55",
+    "typeService" : "service_30",
+    "priceService" : 178414,
+    "workshopId" : 8
+  }, {
+    "id" : 886,
+    "carBrand" : "brand_52",
+    "typeService" : "service_65",
+    "priceService" : 114715,
+    "workshopId" : 8
+  } ],
+  "equipments" : [ {
+    "id" : 881,
+    "name" : "equipment27",
+    "count" : 2,
+    "specialization" : "specialization_1",
+    "workshopId" : 8
+  }, {
+    "id" : 882,
+    "name" : "equipment36",
+    "count" : 5,
+    "specialization" : "specialization_2",
+    "workshopId" : 8
+  }, {
+    "id" : 883,
+    "name" : "equipment58",
+    "count" : 8,
+    "specialization" : "specialization_3",
+    "workshopId" : 8
+  }, {
+    "id" : 884,
+    "name" : "equipment92",
+    "count" : 3,
+    "specialization" : "specialization_4",
+    "workshopId" : 8
+  }, {
+    "id" : 885,
+    "name" : "equipment93",
+    "count" : 3,
+    "specialization" : "specialization_5",
+    "workshopId" : 8
+  }, {
+    "id" : 886,
+    "name" : "equipment35",
+    "count" : 3,
+    "specialization" : "specialization_6",
+    "workshopId" : 8
+  }, {
+    "id" : 887,
+    "name" : "equipment80",
+    "count" : 8,
+    "specialization" : "specialization_7",
+    "workshopId" : 8
+  } ],
+  "location" : {
+    "country" : "Country_62",
+    "city" : "City_4",
+    "street" : "Street_31",
+    "house" : "House_46",
+    "workshopId" : 8
+  }
+}, {
+  "id" : 9,
+  "name" : "AutoWorkshop_9",
+  "workers" : [ {
+    "id" : 991,
+    "fio" : "fio_9901",
+    "specialization" : "specialization_1",
+    "workshopId" : 9
+  }, {
+    "id" : 992,
+    "fio" : "fio_9902",
+    "specialization" : "specialization_2",
+    "workshopId" : 9
+  }, {
+    "id" : 993,
+    "fio" : "fio_9903",
+    "specialization" : "specialization_3",
+    "workshopId" : 9
+  }, {
+    "id" : 994,
+    "fio" : "fio_9904",
+    "specialization" : "specialization_4",
+    "workshopId" : 9
+  } ],
+  "commissions" : [ {
+    "id" : 991,
+    "carBrand" : "brand_58",
+    "typeService" : "service_96",
+    "priceService" : 254504,
+    "workshopId" : 9
+  }, {
+    "id" : 992,
+    "carBrand" : "brand_35",
+    "typeService" : "service_70",
+    "priceService" : 151196,
+    "workshopId" : 9
+  }, {
+    "id" : 993,
+    "carBrand" : "brand_67",
+    "typeService" : "service_26",
+    "priceService" : 44324,
+    "workshopId" : 9
+  }, {
+    "id" : 994,
+    "carBrand" : "brand_4",
+    "typeService" : "service_28",
+    "priceService" : 239059,
+    "workshopId" : 9
+  }, {
+    "id" : 995,
+    "carBrand" : "brand_79",
+    "typeService" : "service_92",
+    "priceService" : 139737,
+    "workshopId" : 9
+  }, {
+    "id" : 996,
+    "carBrand" : "brand_71",
+    "typeService" : "service_9",
+    "priceService" : 34480,
+    "workshopId" : 9
+  } ],
+  "equipments" : [ {
+    "id" : 991,
+    "name" : "equipment71",
+    "count" : 9,
+    "specialization" : "specialization_1",
+    "workshopId" : 9
+  }, {
+    "id" : 992,
+    "name" : "equipment32",
+    "count" : 2,
+    "specialization" : "specialization_2",
+    "workshopId" : 9
+  }, {
+    "id" : 993,
+    "name" : "equipment82",
+    "count" : 4,
+    "specialization" : "specialization_3",
+    "workshopId" : 9
+  }, {
+    "id" : 994,
+    "name" : "equipment2",
+    "count" : 2,
+    "specialization" : "specialization_4",
+    "workshopId" : 9
+  }, {
+    "id" : 995,
+    "name" : "equipment74",
+    "count" : 8,
+    "specialization" : "specialization_5",
+    "workshopId" : 9
+  } ],
+  "location" : {
+    "country" : "Country_60",
+    "city" : "City_97",
+    "street" : "Street_4",
+    "house" : "House_60",
+    "workshopId" : 9
+  }
+}, {
+  "id" : 10,
+  "name" : "AutoWorkshop_10",
+  "workers" : [ {
+    "id" : 1101,
+    "fio" : "fio_11001",
+    "specialization" : "specialization_1",
+    "workshopId" : 10
+  }, {
+    "id" : 1102,
+    "fio" : "fio_11002",
+    "specialization" : "specialization_2",
+    "workshopId" : 10
+  } ],
+  "commissions" : [ {
+    "id" : 1101,
+    "carBrand" : "brand_95",
+    "typeService" : "service_95",
+    "priceService" : 129105,
+    "workshopId" : 10
+  }, {
+    "id" : 1102,
+    "carBrand" : "brand_77",
+    "typeService" : "service_99",
+    "priceService" : 112468,
+    "workshopId" : 10
+  }, {
+    "id" : 1103,
+    "carBrand" : "brand_56",
+    "typeService" : "service_34",
+    "priceService" : 278212,
+    "workshopId" : 10
+  }, {
+    "id" : 1104,
+    "carBrand" : "brand_26",
+    "typeService" : "service_98",
+    "priceService" : 49215,
+    "workshopId" : 10
+  }, {
+    "id" : 1105,
+    "carBrand" : "brand_63",
+    "typeService" : "service_16",
+    "priceService" : 227392,
+    "workshopId" : 10
+  } ],
+  "equipments" : [ {
+    "id" : 1101,
+    "name" : "equipment0",
+    "count" : 2,
+    "specialization" : "specialization_1",
+    "workshopId" : 10
+  }, {
+    "id" : 1102,
+    "name" : "equipment64",
+    "count" : 5,
+    "specialization" : "specialization_2",
+    "workshopId" : 10
+  }, {
+    "id" : 1103,
+    "name" : "equipment38",
+    "count" : 5,
+    "specialization" : "specialization_3",
+    "workshopId" : 10
+  }, {
+    "id" : 1104,
+    "name" : "equipment58",
+    "count" : 1,
+    "specialization" : "specialization_4",
+    "workshopId" : 10
+  }, {
+    "id" : 1105,
+    "name" : "equipment37",
+    "count" : 6,
+    "specialization" : "specialization_5",
+    "workshopId" : 10
+  }, {
+    "id" : 1106,
+    "name" : "equipment41",
+    "count" : 2,
+    "specialization" : "specialization_6",
+    "workshopId" : 10
+  } ],
+  "location" : {
+    "country" : "Country_79",
+    "city" : "City_93",
+    "street" : "Street_20",
+    "house" : "House_43",
+    "workshopId" : 10
+  }
+} ]

@@ -1,0 +1,10 @@
+rootProject.name = 'Maxim_att_1'
+include 'generator'
+include 'model'
+include 'serializer'
+include 'deserializer'
+include 'driver'
+include 'databace'
+include 'console'
+include 'servlet_container'
+
